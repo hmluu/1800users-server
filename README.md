@@ -1,4 +1,4 @@
 # Profiles
 
 ## ERD
-![ERD](/public/images/erd.png)
+![ERD](/Media/erd.png)
